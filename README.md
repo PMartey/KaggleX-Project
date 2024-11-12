@@ -1,2 +1,2 @@
 # KaggleX-Project
-Note books in preparing the FiB bot 
+This repo contains all Notebooks in developing the Stock trading and Insurance bot 
